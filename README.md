@@ -34,6 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipsaseth01&show_icons=true&locale=en" alt="lipsaseth01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lipsaseth01&" alt="lipsaseth01" /></p>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 <!--
 **lipsaseth01/lipsaseth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
