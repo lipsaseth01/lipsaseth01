@@ -1,10 +1,9 @@
 ### Hi there 👋
-[![MasterHead](https://images.app.goo.gl/tnzQxsPAuHwYa8kb7)]
 <h1 align="center">Hi , I'm lipsa seth</h1>
 <h3 align="center">A passionate frontend developer!</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/5UxNAWUjVyefoAmk6">
 
-- 🌱 I’m currently learning **Bootstrap,tailwind CSS,HTML5,CSS,Javascrip,figmat**
+
+- 🌱 I’m currently learning **Bootstrap,tailwind CSS,HTML5,CSS,Javascrip,figma**
 
 - 💬 Ask me about **html,css,javascript,python,c**
 
