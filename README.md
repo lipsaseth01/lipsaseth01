@@ -1,5 +1,5 @@
 # #hii there
- [![MasterHead](https://images.app.goo.gl/tnzQxsPAuHwYa8kb7)]((https://lipsaseth01.io)
+ [![MasterHead](https://images.app.goo.gl/tnzQxsPAuHwYa8kb7)](https://rishavchanda.io)
 <h1 align="center">Hi , I'm lipsa seth</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
