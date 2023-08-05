@@ -28,7 +28,7 @@
 <a href="https://twitter.com/lipsa_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lipsa_31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lipsa seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lipsa seth" height="30" width="40" /></a>
 <a href="https://instagram.com/lipsaa_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lipsaa_01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lipsaseth_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lipsaseth_01" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lipsaaseth_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lipsaaseth_01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lipsaseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lipsaseth" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sethlibfqd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sethlibfqd" height="30" width="40" /></a>
 </p>
