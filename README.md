@@ -1,7 +1,7 @@
 # #hii there👋
  [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fphoneky.co.uk%2Fthumbs%2Fscreensavers%2Fdown%2Fnew%2Fsigns%2Fwelcome_vYPgtPqQ.gif&tbnid=lf1bDeDW1Kv7jM&vet=1&imgrefurl=https%3A%2F%2Fphoneky.com%2Fgif-animations%2F%3Fid%3Ds3s231822&docid=1chBoZu7dXh7qM&w=640&h=300&hl=en-US&source=sh%2Fx%2Fim%2F4)](https://lipsaseth01.io)
 <h1 align="center">Hi,I'm lipsa seth!👩</h1>
-<h3 align="center">A passionate frontend developer!👩‍💻</h3>
+<h3 align="center">A passionate & hardworking frontend WEBdeveloper!👩‍💻</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipsaseth01&label=Profile%20views&color=0e75b6&style=flat" alt="lipsaseth01" /> </p>
