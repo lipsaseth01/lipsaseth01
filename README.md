@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,tailwind CSS,HTML5,CSS,Javascrip,figma**
 
-- 💬 Ask me about **html,css,javascript,python,c**
+- 💬 Ask me about **html,css,javascript,python,c,react.js**
 
 - 📫 How to reach me **sethlipsa3@gmail.com**
 - <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
